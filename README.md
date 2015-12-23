@@ -7,7 +7,7 @@
 * Guihao Liang (gl2520)
 
 # Project Contents
-Please consult our project report, `*.pdf`. You can also see a vivid video demostration of our project [here](https://www.youtube.com/watch?v=H_mdUsxq7vk)
+Please consult our project report, `Final_Report.pdf`. You can also see a vivid video demostration of our project [here](https://www.youtube.com/watch?v=H_mdUsxq7vk)
 
 # Repo Composition
 * `graph.py` for data visulization
